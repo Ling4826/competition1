@@ -17,7 +17,6 @@ class Solution {
             }
             if (pass == false)
                 return pass;
-
         }
         return pass;
     }
