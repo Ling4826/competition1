@@ -59,6 +59,7 @@
         "variant": "cpp",
         "fstream": "cpp"
     },
-    "java.debug.settings.onBuildFailureProceed": true
+    "java.debug.settings.onBuildFailureProceed": true,
+    "C_Cpp.errorSquiggles": "disabled"
 }
 
